@@ -1,4 +1,4 @@
-# Calculater
+# Calculater Python
 
 indice = 0
 condicao = True
